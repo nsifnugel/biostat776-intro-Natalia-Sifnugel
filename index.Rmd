@@ -1,0 +1,39 @@
+---
+title: "Natalia Sifnugel"
+image: "IMG_0635.JPG"
+
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/natalia-sifnugel-905293179/"
+  - label: Publications
+    url: "https://www.researchgate.net/profile/Natalia-Sifnugel"
+  - label: Photography
+    url: "https://natsifnugelphoto.wordpress.com"
+  
+output:
+  postcards::solana
+---
+
+## Bio
+
+Hello! My name is Natalia and I'm a Master of Public Health student at Johns Hopkins. I grew up in Boston and have also lived in New Orleans and Madrid. For several years, I worked as a research assistant in neuroscience and immunology labs, uncovering the biological mechanisms of psychiatric disorders and finding ways to enhance the immune system's ability to fight cancer. At Hopkins, I am studying Epidemiology and Biostatistics and in my career, I want to use these skills to better understand health outcomes in vulnerable populations. Leveraging my research training, I want to help find ways to reduce health disparities, particularly in mental health and inflammatory disorders.
+
+Along with science and public health, I am also interested in travel and photography. While living in Madrid, I visited over 20 new places. I always brought my film camera with me to capture interesting architecture and exciting memories. Since moving to Baltimore, I have been expanding my creative outlets and am learning how to knit!
+
+## Education
+
+**Johns Hopkins Bloomberg School of Public Health** \| Baltimore, MD
+
+Master of Public Health \| July 2023 - May 2024
+
+**Tulane University** \| New Orleans, LA
+
+Bachelor of Science in Neuroscience. \| August 2016 - May 2020
+
+## Experience
+
+**CEIP Rosa Luxemburgo** English Language Teaching Assistant\| October 2022 - April 2023
+
+**Harvard Medical School, Laboratory of Dr. Arlene H. Sharpe** \| Research Assistant II \| September 2020 - August 2022
+
+**Tulane Brain Institute, Laboratory of Dr. Jonathan P. Fadok** \| Undergraduate Research Assistant \| January 2018 - May 2020
